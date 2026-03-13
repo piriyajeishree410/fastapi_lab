@@ -86,7 +86,7 @@ Visit **http://127.0.0.1:8000/docs** for the interactive Swagger UI.
 
 # Sample Output
 
-![API Prediction Output](../images/output_image.png)
+![API Prediction Output](./images/output_image.png)
 
 The screenshot above shows a successful `POST /predict` request via Swagger UI, returning `"prediction": 1` and `"label": "Diabetes detected"` with HTTP status **200 OK**.
 
